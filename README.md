@@ -1,4 +1,4 @@
-# TFX4all
+# TFX
 Tensorflow Extended - the power of AI combined with the pragmatism and control of a succesful business.
 
 With the goal of integrating AI and a business setup, for everyday data analysis and decision making in general, TFX turns out to be an extremelly useful tool, since it allows heavy control and pragmatism to come into play when doing machine learning, what is just crucial to any business application.
